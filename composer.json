@@ -1,0 +1,7 @@
+{
+    "require": {
+        "katzgrau/klogger": "dev-master",
+        "voku/simple-mysqli": "dev-master",
+        "sunra/php-simple-html-dom-parser": "v1.5.0"
+    }
+}

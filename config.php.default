@@ -1,0 +1,14 @@
+<?php
+
+return [
+    'db_host' => 'localhost',
+    'db_user' => 'root',
+    'db_password' => '',
+    'db_name' => 'ipb_parse',
+
+    'forum_pages_per_request' => 0, //How many forum pages parse per 1 run (0 = all)
+
+    'topics_per_page' => 30,
+    'delay' => '2', // Delay between requests, sec
+    'target_url' => ''
+];
